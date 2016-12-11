@@ -51,7 +51,7 @@
     :URL "xmlutils")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "xmls"
-    :URL "http://common-lisp.net/project/xmls/xmls-1.7.tgz")
+    :URL "https://common-lisp.net/project/xmls/xmls-1.7.1.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "xmls-tools"
     :URL "http://www.bobturf.org/software/xmls-tools/xmls-tools-0.2.0.tar.gz")
