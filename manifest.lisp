@@ -3923,7 +3923,7 @@
     :URL "http://tarballs.hexstreamsoft.com/libraries/latest/anaphoric-variants_latest.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "anaphora"
-    :URL "http://common-lisp.net/project/anaphora/files/anaphora-latest.tar.gz")
+    :URL "https://github.com/tokenrove/anaphora.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "amazon-ecs"
     :URL "https://github.com/gonzojive/amazon-ecs.git")
