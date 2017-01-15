@@ -228,7 +228,7 @@
     :URL "https://github.com/ta2gch/UFO.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "uffi"
-    :URL "uffi")
+    :URL "git://git.kpe.io/uffi.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "ucw"
     :URL "http://common-lisp.net/project/ucw/repos/ucw-core/")
