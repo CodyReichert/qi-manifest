@@ -1596,7 +1596,7 @@
     :URL "http://common-lisp.net/project/iterate-clsql/releases/iterate-clsql-0.2.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "ironclad"
-    :URL "https://github.com/froydnj/ironclad")
+    :URL "https://github.com/froydnj/ironclad.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "irc-logger"
     :URL "irc-logger")
