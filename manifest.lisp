@@ -1599,7 +1599,7 @@
     :URL "https://github.com/froydnj/ironclad.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "irc-logger"
-    :URL "irc-logger")
+    :URL "git://git.kpe.io/irc-logger.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "ip-interfaces"
     :URL "https://common-lisp.net/project/ip-interfaces/releases/ip-interfaces-latest.tar.gz")
