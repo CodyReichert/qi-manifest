@@ -873,7 +873,7 @@
     :URL "git://git.kpe.io/puri.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "ptester"
-    :URL "ptester")
+    :URL "http://beta.quicklisp.org/archive/ptester/2016-09-29/ptester-20160929-git.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "psgraph"
     :URL "http://common-lisp.net/project/asdf-packaging/psgraph-latest.tar.gz")
