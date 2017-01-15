@@ -870,7 +870,7 @@
     :URL "https://github.com/eugeneia/purl.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "puri"
-    :URL "http://beta.quicklisp.org/archive/puri/2015-09-23/puri-20150923-git.tgz")
+    :URL "git://git.kpe.io/puri.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "ptester"
     :URL "ptester")
