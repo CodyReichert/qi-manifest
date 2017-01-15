@@ -966,7 +966,7 @@
     :URL "https://github.com/Shinmera/piping.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "pipes"
-    :URL "pipes")
+    :URL "http://beta.quicklisp.org/archive/pipes/2015-09-23/pipes-20150923-git.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "pileup"
     :URL "https://github.com/nikodemus/pileup.git")
