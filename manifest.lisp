@@ -726,7 +726,7 @@
     :URL "http://beta.quicklisp.org/archive/rfc2388-binary/2015-12-18/rfc2388-binary-20151218-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "rfc2109"
-    :URL "http://www.common-lisp.net/project/rfc2109/rfc2109/")
+    :URL "http://www.common-lisp.net/project/rfc2109/release/rfc2109-latest.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "reversi"
     :URL "reversi")
