@@ -945,7 +945,7 @@
     :URL "https://github.com/atomontage/plokami.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "plexippus-xpath"
-    :URL "plexippus-xpath")
+    :URL "http://beta.quicklisp.org/archive/plexippus-xpath/2012-09-09/plexippus-xpath-20120909-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "planks"
     :URL "https://github.com/drewc/planks.git")
