@@ -1572,7 +1572,7 @@
     :URL "https://bitbucket.org/bradJM/json-responses")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "js"
-    :URL "https://github.com/akapav/js.git v0.12.01")
+    :URL "https://github.com/akapav/js.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "js-parser"
     :URL "https://github.com/gonzojive/js-parser.git")
