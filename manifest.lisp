@@ -1475,9 +1475,6 @@
     :NAME "lisa"
     :URL "https://github.com/johanlindberg/lisa.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "lisa"
-    :URL ":pserver:anonymous@lisa.cvs.sourceforge.net:/cvsroot/lisa")
- #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "linewise-template"
     :URL "https://github.com/agrostis/linewise-template.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
