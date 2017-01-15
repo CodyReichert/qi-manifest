@@ -1323,7 +1323,7 @@
     :URL "https://github.com/pmai/md5.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "mcclim"
-    :URL "https://github.com/robert-strandh/McCLIM")
+    :URL "https://github.com/robert-strandh/McCLIM.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "matlisp"
     :URL "git://git.code.sf.net/p/matlisp/git")
