@@ -1311,10 +1311,7 @@
     :URL "https://github.com/Kalimehtar/message-oo.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "memoize"
-    :URL "http://www.tfeb.org/programs/lisp/memoize.lisp")
- #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "memoize"
-    :URL "http://beta.quicklisp.org/orphans/tfeb/memoize.lisp")
+    :URL "http://beta.quicklisp.org/archive/memoize/2014-08-26/memoize-20140826-http.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "mel-base"
     :URL "https://github.com/neonsquare/mel-base.git")
