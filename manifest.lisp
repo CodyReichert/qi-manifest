@@ -951,7 +951,7 @@
     :URL "https://github.com/drewc/planks.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "plain-odbc"
-    :URL "svn://common-lisp.net/project/plain-odbc/svn/plain-odbc/trunk")
+    :URL "http://beta.quicklisp.org/archive/plain-odbc/2012-09-09/plain-odbc-20120909-svn.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "place-utils"
     :URL "http://tarballs.hexstreamsoft.com/libraries/latest/place-utils_latest.tar.gz")
