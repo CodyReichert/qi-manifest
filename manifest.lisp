@@ -864,7 +864,7 @@
     :URL "https://github.com/arbscht/py-configvalidator.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "py-configparser"
-    :URL "svn://common-lisp.net/project/py-configparser/svn/trunk")
+    :URL "https://common-lisp.net/project/py-configparser/releases/py-configparser-1.0.3.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "purl"
     :URL "https://github.com/eugeneia/purl.git")
