@@ -1296,7 +1296,7 @@
     :URL "http://wcp.sdf-eu.org/software/metafs-latest.tbz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "metacopy"
-    :URL "http://dwim.hu/live/metacopy/")
+    :URL "http://beta.quicklisp.org/archive/metacopy/2013-03-12/metacopy-20130312-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "metabang-bind"
     :URL "https://github.com/gwkkwg/metabang-bind.git")
