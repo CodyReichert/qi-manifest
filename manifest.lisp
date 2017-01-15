@@ -189,7 +189,7 @@
     :URL "http://common-lisp.net/project/cl-net-snmp/release/usocket-udp_latest.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "userial"
-    :URL "http://nklein.com/wp-content/uploads/2011/06/userial_0.8.2011.06.02.tar.gz")
+    :URL "https://github.com/nklein/userial.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "url-rewrite"
     :URL "http://weitz.de/files/url-rewrite.tar.gz")
