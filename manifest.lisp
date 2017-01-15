@@ -1428,8 +1428,10 @@
     :URL "https://github.com/avodonosov/local-package-aliases.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "lml2"
-    :URL "lml2")
- #S(QI.MANIFEST::MANIFEST-PACKAGE :NAME "lml" :URL "lml")
+    :URL "git://git.kpe.io/lml2.git")
+ #S(QI.MANIFEST::MANIFEST-PACKAGE
+    :NAME "lml"
+    :URL "git://git.kpe.io/lml.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "lla"
     :URL "https://github.com/tpapp/lla.git")
