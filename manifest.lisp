@@ -885,7 +885,7 @@
     :URL "https://github.com/brown/protobuf.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "projectured"
-    :URL "https://github.com/projectured/projectured.git quicklisp")
+    :URL "https://github.com/projectured/projectured.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "proc-parse"
     :URL "https://github.com/fukamachi/proc-parse.git")
