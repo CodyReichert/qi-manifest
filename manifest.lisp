@@ -1668,7 +1668,7 @@
     :URL "https://github.com/antifuchs/idna.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hyperobject"
-    :URL "hyperobject")
+    :URL "git://git.kpe.io/hyperobject.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hyperluminal-mem"
     :URL "https://github.com/cosmos72/hyperluminal-mem.git")
