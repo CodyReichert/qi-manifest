@@ -712,7 +712,9 @@
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "rock"
     :URL "https://github.com/eudoxia0/rock.git")
- #S(QI.MANIFEST::MANIFEST-PACKAGE :NAME "rlc" :URL "rlc")
+ #S(QI.MANIFEST::MANIFEST-PACKAGE
+    :NAME "rlc"
+    :URL "http://beta.quicklisp.org/archive/rlc/2015-09-23/rlc-20150923-git.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "rfc3339-timestamp"
     :URL "https://github.com/pidu/rfc3339-timestamp.git")
