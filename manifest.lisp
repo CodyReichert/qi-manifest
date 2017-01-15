@@ -216,10 +216,10 @@
     :URL "https://github.com/mon-key/unicly.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "umlisp"
-    :URL "umlisp")
+    :URL "http://beta.quicklisp.org/archive/umlisp/2015-09-23/umlisp-20150923-git.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "umlisp-orf"
-    :URL "umlisp-orf")
+    :URL "http://beta.quicklisp.org/archive/umlisp-orf/2015-09-23/umlisp-orf-20150923-git.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "uiop"
     :URL "http://common-lisp.net/project/asdf/archives/uiop.tar.gz")
