@@ -1575,7 +1575,7 @@
     :URL "https://github.com/akapav/js.git v0.12.01")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "js-parser"
-    :URL "https://github.com/gonzojive/js-parser")
+    :URL "https://github.com/gonzojive/js-parser.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "jpl-queues"
     :URL "http://www.thoughtcrime.us/software/jpl-queues/jpl-queues-0.1.tar.gz")
