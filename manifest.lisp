@@ -1692,73 +1692,73 @@
     :URL "https://github.com/Shinmera/humbler.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.web-server"
-    :URL "http://dwim.hu/live/hu.dwim.web-server/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.web-server/2016-03-18/hu.dwim.web-server-20160318-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.walker"
-    :URL "http://dwim.hu/live/hu.dwim.walker/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.walker/2015-12-18/hu.dwim.walker-20151218-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.util"
-    :URL "http://dwim.hu/live/hu.dwim.util/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.util/2016-05-31/hu.dwim.util-20160531-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.uri"
-    :URL "http://dwim.hu/live/hu.dwim.uri/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.uri/2015-07-09/hu.dwim.uri-20150709-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.syntax-sugar"
-    :URL "http://dwim.hu/live/hu.dwim.syntax-sugar/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.syntax-sugar/2016-12-04/hu.dwim.syntax-sugar-20161204-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.stefil"
-    :URL "http://dwim.hu/live/hu.dwim.stefil/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.stefil/2016-02-08/hu.dwim.stefil-20160208-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.serializer"
-    :URL "http://dwim.hu/live/hu.dwim.serializer/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.serializer/2016-12-04/hu.dwim.serializer-20161204-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.reiterate"
-    :URL "http://dwim.hu/live/hu.dwim.reiterate/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.reiterate/2015-12-18/hu.dwim.reiterate-20151218-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.rdbms"
-    :URL "http://dwim.hu/live/hu.dwim.rdbms/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.rdbms/2016-03-18/hu.dwim.rdbms-20160318-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.quasi-quote"
-    :URL "http://dwim.hu/live/hu.dwim.quasi-quote/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.quasi-quote/2016-05-31/hu.dwim.quasi-quote-20160531-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.presentation"
-    :URL "http://dwim.hu/live/hu.dwim.presentation/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.presentation/2016-12-04/hu.dwim.presentation-20161204-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.perec"
-    :URL "http://dwim.hu/live/hu.dwim.perec/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.perec/2016-03-18/hu.dwim.perec-20160318-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.partial-eval"
-    :URL "http://dwim.hu/live/hu.dwim.partial-eval/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.partial-eval/2016-05-31/hu.dwim.partial-eval-20160531-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.logger"
-    :URL "http://dwim.hu/live/hu.dwim.logger/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.logger/2015-12-18/hu.dwim.logger-20151218-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.graphviz"
-    :URL "http://dwim.hu/live/hu.dwim.graphviz/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.graphviz/2016-10-31/hu.dwim.graphviz-20161031-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.delico"
-    :URL "http://dwim.hu/live/hu.dwim.delico/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.delico/2015-12-18/hu.dwim.delico-20151218-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.defclass-star"
-    :URL "http://dwim.hu/live/hu.dwim.defclass-star/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.defclass-star/2015-07-09/hu.dwim.defclass-star-20150709-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.def"
-    :URL "http://dwim.hu/live/hu.dwim.def/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.def/2016-12-04/hu.dwim.def-20161204-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.debug"
-    :URL "http://dwim.hu/live/hu.dwim.debug")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.debug/2015-07-09/hu.dwim.debug-20150709-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.computed-class"
-    :URL "http://dwim.hu/live/hu.dwim.computed-class/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.computed-class/2016-12-04/hu.dwim.computed-class-20161204-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.common"
-    :URL "http://dwim.hu/live/hu.dwim.common/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.common/2015-07-09/hu.dwim.common-20150709-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.common-lisp"
-    :URL "http://dwim.hu/live/hu.dwim.common-lisp/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.common-lisp/2015-07-09/hu.dwim.common-lisp-20150709-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hu.dwim.asdf"
-    :URL "http://dwim.hu/live/hu.dwim.asdf/")
+    :URL "http://beta.quicklisp.org/archive/hu.dwim.asdf/2015-12-18/hu.dwim.asdf-20151218-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "http-parse"
     :URL "https://github.com/orthecreedence/http-parse.git")
