@@ -1665,7 +1665,7 @@
     :URL "http://wcp.sdf-eu.org/software/ie3fp-latest.tbz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "idna"
-    :URL "https://github.com/antifuchs/idna")
+    :URL "https://github.com/antifuchs/idna.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "hyperobject"
     :URL "hyperobject")
