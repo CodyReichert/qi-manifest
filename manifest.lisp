@@ -1278,7 +1278,7 @@
     :URL "https://github.com/tmccombs/mexpr.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "method-versions"
-    :URL "http://nklein.com/wp-content/uploads/2011/05/method-versions_0.1.2011.05.18.tar.gz")
+    :URL "https://github.com/nklein/method-versions.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "method-combination-utilities"
     :URL "https://github.com/sellout/method-combination-utilities.git")
