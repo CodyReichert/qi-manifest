@@ -1044,7 +1044,7 @@
     :URL "http://common-lisp.net/project/parenscript/release/parenscript-latest.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "parenscript-classic"
-    :URL "http://darcs.unknownlamer.org/parenscript-classic")
+    :URL "http://beta.quicklisp.org/archive/parenscript-classic/2011-12-03/parenscript-classic-20111203-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "paren-util"
     :URL "https://github.com/gonzojive/paren-util.git")
