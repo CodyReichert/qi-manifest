@@ -504,7 +504,7 @@
     :URL "https://github.com/tlh/sqnc.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "split-sequence"
-    :URL "https://github.com/sharplispers/split-sequence/archive/v1.2.tar.gz")
+    :URL "https://github.com/sharplispers/split-sequence.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "spinneret"
     :URL "https://github.com/ruricolist/spinneret.git")
