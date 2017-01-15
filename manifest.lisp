@@ -909,7 +909,7 @@
     :URL "https://github.com/fjames86/pounds.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "postoffice"
-    :URL "postoffice")
+    :URL "http://beta.quicklisp.org/archive/postoffice/2012-09-09/postoffice-20120909-git.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "postmodern"
     :URL "https://github.com/marijnh/Postmodern.git")
