@@ -1545,7 +1545,7 @@
     :URL "https://github.com/TheRiver/L-MATH.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "kmrcl"
-    :URL "kmrcl")
+    :URL "http://files.kpe.io/kmrcl/kmrcl-latest.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "km"
     :URL "http://www.cs.utexas.edu/users/mfkb/km/km-latest.tgz")
