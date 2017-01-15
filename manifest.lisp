@@ -699,7 +699,7 @@
     :URL "http://rtm-lisp-api.googlecode.com/files/rtm-lisp-api-v2.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "rt"
-    :URL "rt")
+    :URL "http://beta.quicklisp.org/archive/rt/2010-10-06/rt-20101006-git.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "rpm"
     :URL "https://gitlab.common-lisp.net/qitab/rpm.git")
