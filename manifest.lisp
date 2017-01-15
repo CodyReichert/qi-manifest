@@ -570,7 +570,7 @@
     :URL "https://github.com/Shinmera/simple-tasks.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "simple-rgb"
-    :URL "https://github.com/wmannis/simple-rgb")
+    :URL "https://github.com/wmannis/simple-rgb.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "simple-finalizer"
     :URL "https://github.com/Balooga/Simple-Finalizer.git")
