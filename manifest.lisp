@@ -738,16 +738,10 @@
     :URL "https://github.com/Ralt/restful.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "restas"
-    :URL "https://github.com/archimag/restas.git version-0.1.3")
- #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "restas"
     :URL "https://github.com/archimag/restas.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "restas.file-publisher"
     :URL "https://github.com/kevinlynx/restas.file-publisher.git")
- #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "restas-directory-publisher"
-    :URL "https://github.com/archimag/restas-directory-publisher.git version-0.1")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "restas-directory-publisher"
     :URL "https://github.com/archimag/restas-directory-publisher.git")
