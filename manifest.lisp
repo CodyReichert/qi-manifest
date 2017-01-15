@@ -729,7 +729,7 @@
     :URL "http://www.common-lisp.net/project/rfc2109/release/rfc2109-latest.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "reversi"
-    :URL "reversi")
+    :URL "git://git.kpe.io/reversi.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "retrospectiff"
     :URL "https://github.com/slyrus/retrospectiff.git")
