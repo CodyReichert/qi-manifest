@@ -564,7 +564,7 @@
     :URL "https://gitlab.common-lisp.net/qitab/single-threaded-ccl.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "simpsamp"
-    :URL "http://www.thoughtcrime.us/software/simpsamp/simpsamp-0.1.tar.gz")
+    :URL "http://www.thoughtcrime.us/software/simpsamp/simpsamp-0.2.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "simple-tasks"
     :URL "https://github.com/Shinmera/simple-tasks.git")
