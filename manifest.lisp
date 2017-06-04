@@ -3452,8 +3452,8 @@
     :NAME "cl-devil"
     :URL "https://github.com/zkat/cl-devil.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-decimals"
-    :URL "https://github.com/tlikonen/cl-decimals")
+    :NAME "decimals"
+    :URL "https://github.com/tlikonen/cl-decimals.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-dbi"
     :URL "https://github.com/fukamachi/cl-dbi.git")
