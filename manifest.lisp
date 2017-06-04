@@ -3195,7 +3195,7 @@
     :URL "https://common-lisp.net/project/cl-l10n/files/cl-l10n_0.4.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-l10n-cldr"
-    :URL "http://common-lisp.net/project/cl-l10n/repos/cl-l10n-cldr/")
+    :URL "http://beta.quicklisp.org/archive/cl-l10n-cldr/2012-09-09/cl-l10n-cldr-20120909-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-kyoto-cabinet"
     :URL "https://github.com/kraison/cl-kyoto-cabinet.git")
