@@ -2567,7 +2567,7 @@
     :NAME "cl-yaclyaml"
     :URL "https://github.com/mabragor/cl-yaclyaml.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-yacc"
+    :NAME "yacc"
     :URL "https://github.com/jech/cl-yacc.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-xul"
