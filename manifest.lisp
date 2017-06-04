@@ -3891,7 +3891,7 @@
     :URL "http://common-lisp.net/project/bese/repos/arnesi_dev/")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "archive"
-    :URL "https://github.com/froydnj/archive")
+    :URL "https://github.com/froydnj/archive.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "architecture.service-provider"
     :URL "https://github.com/scymtym/architecture.service-provider.git")
