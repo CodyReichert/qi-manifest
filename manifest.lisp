@@ -2585,9 +2585,6 @@
     :NAME "cl-xkeysym"
     :URL "https://github.com/stumpwm/cl-xkeysym.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-wkb"
-    :URL "http://surejourney.com/software/cl-wkb/cl-wkb-0.1.tar.gz")
- #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-win32ole"
     :URL "https://github.com/quek/cl-win32ole.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
