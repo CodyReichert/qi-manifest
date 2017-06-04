@@ -2999,9 +2999,6 @@
     :NAME "cl-openal"
     :URL "https://github.com/zkat/cl-openal.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-op"
-    :URL "http://cl-op.googlecode.com/svn/trunk/")
- #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-one-time-passwords"
     :URL "https://github.com/bhyde/cl-one-time-passwords.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
