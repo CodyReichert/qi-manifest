@@ -3561,7 +3561,7 @@
     :URL "https://github.com/jmbr/cl-buchberger.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-btree"
-    :URL "http://iweb.dl.sourceforge.net/project/cl-btree/cl-btree-0.5.tgz")
+    :URL "https://downloads.sourceforge.net/project/cl-btree/cl-btree_0.12.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-bson"
     :URL "https://github.com/EuAndreh/cl-bson.git")
