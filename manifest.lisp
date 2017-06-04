@@ -3873,7 +3873,7 @@
     :URL "https://github.com/eudoxia0/asdf-linguist.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "asdf-flv"
-    :URL "https://www.lrde.epita.fr/~didier/software/lisp/asdf-flv/attic/asdf-flv-1.0.tar.gz")
+    :URL "https://www.lrde.epita.fr/~didier/software/lisp/asdf-flv/attic/asdf-flv-2.1.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "asdf-finalizers"
     :URL "https://gitlab.common-lisp.net/asdf/asdf-finalizers.git")
