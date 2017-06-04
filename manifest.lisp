@@ -3137,10 +3137,7 @@
     :NAME "cl-locale"
     :URL "https://github.com/arielnetworks/cl-locale.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-llvm"
-    :URL "https://github.com/sellout/CL-LLVM.git llvm-2.9")
- #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-llvm"
+    :NAME "llvm"
     :URL "https://github.com/sellout/CL-LLVM.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-libyaml"
