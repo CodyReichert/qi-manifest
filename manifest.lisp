@@ -3819,7 +3819,7 @@
     :URL "https://github.com/froydnj/binascii.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "binary-types"
-    :URL "https://github.com/Ferada/binary-types")
+    :URL "https://github.com/Ferada/binary-types.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "big-string"
     :URL "https://bitbucket.org/tarballs_are_good/big-string")
