@@ -3174,7 +3174,7 @@
     :URL "https://github.com/starseeker/cl-lexer.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-lex"
-    :URL "http://cl-lex.googlecode.com/files/cl-lex_1.1.2.tar.gz")
+    :URL "https://github.com/djr7C4/cl-lex.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-ledger"
     :URL "https://github.com/jwiegley/cl-ledger.git")
