@@ -3209,8 +3209,8 @@
     :NAME "cl-json"
     :URL "https://github.com/hankhero/cl-json.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-json-template"
-    :URL "http://matthias.benkard.de/code/cl-json-template/")
+    :NAME "json-template"
+    :URL "http://beta.quicklisp.org/archive/cl-json-template/2017-05-16/cl-json-template-20170516-git.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-jpl-util"
     :URL "http://www.thoughtcrime.us/software/cl-jpl-util/cl-jpl-util-0.4.tar.gz")
