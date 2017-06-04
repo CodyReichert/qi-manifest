@@ -3356,8 +3356,8 @@
     :NAME "cl-gap-buffer"
     :URL "https://bitbucket.org/tarballs_are_good/cl-gap-buffer")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-gambol"
-    :URL "https://github.com/wmannis/cl-gambol")
+    :NAME "gambol"
+    :URL "https://github.com/wmannis/cl-gambol.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-fuse"
     :URL "https://github.com/fb08af68/cl-fuse.git")
