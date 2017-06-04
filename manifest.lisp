@@ -3596,8 +3596,8 @@
     :NAME "cl-base32"
     :URL "https://github.com/hargettp/cl-base32.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-bacteria"
-    :URL "http://code.google.com/p/cl-bacteria")
+    :NAME "bacteria"
+    :URL "https://github.com/GitoriousLispBackup/cl-bacteria.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-azure"
     :URL "https://github.com/RobBlackwell/cl-azure.git")
