@@ -3513,7 +3513,7 @@
     :URL "https://github.com/gwkkwg/cl-containers.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-cont"
-    :URL "http://common-lisp.net/project/cl-cont/darcs/cl-cont")
+    :URL "http://beta.quicklisp.org/archive/cl-cont/2011-02-19/cl-cont-20110219-darcs.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-conspack"
     :URL "https://github.com/conspack/cl-conspack.git")
