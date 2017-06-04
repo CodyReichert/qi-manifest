@@ -3192,7 +3192,7 @@
     :URL "https://github.com/eslick/cl-langutils.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-l10n"
-    :URL "http://common-lisp.net/project/cl-l10n/repos/cl-l10n")
+    :URL "https://common-lisp.net/project/cl-l10n/files/cl-l10n_0.4.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-l10n-cldr"
     :URL "http://common-lisp.net/project/cl-l10n/repos/cl-l10n-cldr/")
