@@ -3297,7 +3297,7 @@
     :URL "https://github.com/sellout/cl-gravatar.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-graph"
-    :URL "https://github.com/gwkkwg/cl-graph")
+    :URL "https://github.com/gwkkwg/cl-graph.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-grace"
     :URL "https://bitbucket.org/pdo/cl-grace")
