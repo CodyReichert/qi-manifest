@@ -3183,7 +3183,7 @@
     :URL "https://common-lisp.net/project/xcvb/cl-launch/cl-launch.tar.gz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-lastfm"
-    :URL "https://github.com/nlamirault/cl-lastfm/archive/0.2.1.tar.gz")
+    :URL "https://github.com/nlamirault/cl-lastfm.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-larval"
     :URL "https://github.com/mabragor/cl-larval.git")
