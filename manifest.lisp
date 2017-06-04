@@ -3332,9 +3332,6 @@
     :NAME "cl-geocode"
     :URL "https://github.com/e40/cl-geocode.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
-    :NAME "cl-geo"
-    :URL "http://surejourney.com/software/cl-geo/cl-geo-0.2.tar.gz")
- #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-generic-arithmetic"
     :URL "https://bitbucket.org/tarballs_are_good/cl-generic-arithmetic")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
