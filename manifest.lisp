@@ -3072,7 +3072,7 @@
     :URL "https://github.com/vsedach/cl-moneris.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-monad-macros"
-    :URL "svn://common-lisp.net/project/cl-monad-macros/svn/trunk")
+    :URL "http://beta.quicklisp.org/archive/cl-monad-macros/2011-06-19/cl-monad-macros-20110619-svn.tgz")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "cl-modlisp"
     :URL "cl-modlisp")
