@@ -3888,7 +3888,7 @@
     :URL "https://github.com/tpapp/array-operations.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "arnesi"
-    :URL "http://common-lisp.net/project/bese/repos/arnesi_dev/")
+    :URL "https://github.com/AccelerationNet/arnesi.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "archive"
     :URL "https://github.com/froydnj/archive.git")
