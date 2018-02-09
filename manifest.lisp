@@ -3660,7 +3660,7 @@
     :URL "https://github.com/fukamachi/circular-streams.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "chunga"
-    :URL "http://weitz.de/files/chunga.tar.gz")
+    :URL "https://github.com/edicl/chunga.git")
  #S(QI.MANIFEST::MANIFEST-PACKAGE
     :NAME "chtml-matcher"
     :URL "https://github.com/eslick/chtml-matcher.git")
